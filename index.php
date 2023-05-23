@@ -208,7 +208,7 @@ footer p {
       </div>
       <main class="content">
         <section class="hero">
-          <img src="https://lh3.googleusercontent.com/7F3GJhmkiI5icZKMwLgYco_ikND8y4Yh1Lm8Sfl1tcU1axe4YCJfjXalrtnkGxaOw602i7nSMKezhtS-e0I77R2u_j0skykBfq_QwoC72fQED4zr7XIqBQ2l5WwYgGI1LsUvK6QVFA=w2400?source=screenshot.guru" alt="" />
+          <img src="https://storage.googleapis.com/deploy-personal-profile.appspot.com/Profil.png" alt="" />
           <div class="hero-content">
             <h1>M Fahmi Alfaris</h1>
             <br />
